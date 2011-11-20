@@ -1,0 +1,15 @@
+[submodule "compiler"]
+	path = compiler
+	url = git://github.com/knutwalker/google-closure-compiler.git
+[submodule "linter"]
+	path = linter
+	url = git://github.com/knutwalker/google-closure-linter.git
+[submodule "library"]
+	path = library
+	url = git://github.com/knutwalker/google-closure-library.git
+[submodule "templates"]
+	path = templates
+	url = git://github.com/knutwalker/google-closure-templates.git
+[submodule "stylesheets"]
+	path = stylesheets
+	url = git://github.com/knutwalker/google-closure-stylesheets.git
